@@ -21,8 +21,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/rootuser/MIT/xv6-labs-2020/user",
-      "program": "/home/rootuser/MIT/xv6-labs-2020/user/build/Debug/outDebug",
+      "cwd": "/home/rootuser/MIT/xv6-labs-2020",
+      "program": "/home/rootuser/MIT/xv6-labs-2020/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
